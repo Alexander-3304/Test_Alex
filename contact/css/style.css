@@ -1,0 +1,143 @@
+body{
+  background: #F5F5F5;
+	font-family: Arial, Helvetica, sans-serif;
+  background: #121212;
+}
+
+.prime{
+}
+
+.prime__content{
+	position: relative;
+	width: 500px;
+	height: 300px;
+	margin: 0px 0px 0px 60px;
+	border-radius: 5px;
+	margin: 0 auto;
+  top: 110px;
+	z-index: 2;
+
+}
+
+.prime1__content{
+	background-image: url(../img/background.jpg);
+	width: 500px;
+	height: 300px;
+	border-radius: 5px;
+  filter: drop-shadow(0 0 40px #00FA9A);
+}
+
+.content__name{
+	position: relative;
+	background: #DD0160;
+	width: 400px;
+	height: 30px;
+	top: 20px;
+	left: -20px;
+
+}
+.name__name{
+	color: #fff;
+	padding: 6px 0px 0px 30px;
+}
+
+.content__block1{
+	margin: 50px 0px 0px 30px;
+}
+.block1__name{
+	color: #DA70D6;
+	font-size: 10px;
+}
+.block1__input{
+	width: 250px;
+  height: 20px;
+	position: relative;
+	top: -8px;
+  border: none;
+  border-bottom: 2px solid #DD0160;
+  background: none;
+  color: #00FA9A;
+}
+
+.content__block2{
+	position: relative;
+	left: 30px;
+	top: -10px;
+}
+.block2__name{
+	color: #DA70D6;
+	font-size: 10px;
+}
+
+.block2__input{
+	width: 250px;
+  height: 20px;
+	position: relative;
+	top: -8px;
+  border: none;
+  border-bottom: 2px solid #DD0160;
+  background: none;
+  color: #00FA9A;
+}
+
+
+.content__block3{
+	position: relative;
+	left: 30px;
+	top: -10px;
+}
+.block3__sp1{
+	color: #578384;
+	margin: 0px 0px 0px 0px;
+}
+.block3__sp2{
+	color: #578384;
+	margin: 0px 0px 0px 143px;
+}
+.block3__input1{
+	width: 50px;
+  height: 20px;
+	margin: 5px 0px 0px 0px;
+  border: none;
+  border-bottom: 2px solid #608C8D;
+  background: none;
+}
+.block3__input2{
+	width: 50px;
+  height: 20px;
+	margin: 0px 0px 0px 45px;
+  border: none;
+  border-bottom: 2px solid #608C8D;
+}
+.block3__input3{
+	width: 50px;
+  height: 20px;
+	margin: 0px 0px 0px 40px;
+  border: none;
+  border-bottom: 2px solid #608C8D;
+}
+
+.content__block4{
+  position: relative;
+  overflow:hidden;
+  width:150px;
+  height:250px;
+  top: -206px;
+  left: 320px;
+  border-radius: 5px;
+
+}
+.img001{
+  position: absolute;
+   top:50%;
+   left:55%;
+   -webkit-transform:translate(-50%,-50%);
+       -ms-transform:translate(-50%,-50%);
+           transform:translate(-40%, -30%);
+   width:250px;
+   height:250px;
+   -o-object-fit:cover;
+      object-fit:cover;
+
+
+}
